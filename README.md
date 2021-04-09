@@ -44,7 +44,7 @@ are always more than enough to cover the devices that are connected to the netwo
 ## Questions & Notions
 
 ###### What DHCP protocol does it use at the transport layer level?  
-
+```
 User Datagram Protocol (UDP)
 DHCP uses User Datagram Protocol (UDP), RFC 768, as its transport protocol.
 
@@ -59,29 +59,29 @@ Range from 172.16.0.0 to 172.31.255.255 — a 172.16.0.0 network with a 255.240.
 A 192.168.0.0 to 192.168.255.255 range, which is a 192.168.0.0 network masked by 255.255.0.0 or /16
 A special range 100.64.0.0 to 100.127.255.255 with a 255.192.0.0 or /10 network mask;  
 this subnet is recommended according to rfc6598 for use as an address pool for CGN (Carrier-Grade NAT)"  
-
+```
 [PrivateIp](https://help.keenetic.com/hc/en-us/articles/213965789-What-is-the-difference-between-a-public-and-private-IP-address-)
 
 ###### Which IP address class has more host addresses available by default?  
-
+```
 "Class A addressing
 Which class of IP address has the most host addresses available by default?  
 Explanation: Class A addressing provides 24 bits for host addressing."
-
+```
 ###### Which protocol does Ping use?   
-
-"ICMP
+```
+ICMP
 The program ping is one program that uses ICMP to determine whether a system is connected to the Internet (it uses the ICMP messages Echo Request and Echo Reply)."
-
+```
 [Ping](https://www.sciencedirect.com/topics/computer-science/internet-control-message-protocol)
-
+```
 Domain name system is the way the internet domain names are stored and translated to IP addresses.  
 The domain names systems matches the name of website to ip addresses of the website.
-
+```
 ###### You have an interface on a router with the IP address of 124.144.156.248/21. Including the router interface, how many hosts can have IP addresses on the local network connected to the router interface?"  
-
+```
 2046
-
+```
 [Calculator+more](https://www.calculator.net/ip-subnet-calculator.html)
 
 ###### Which of the following propositions is not true?    
