@@ -296,3 +296,11 @@ Host range: 233.249.144.1 - 233.249.151.254
 
 [TCP] (https://www.geeksforgeeks.org/differences-between-tcp-and-udp/)
 
+## re-Sources
+
+[edithturn] (https://github.com/edithturn/42-silicon-valley-netwhat)
+
+[adblanc] (https://github.com/adblanc/netwhat42-train)
+
+[appinha] (https://github.com/appinha/ip_calc-netwhat-42cursus)
+
