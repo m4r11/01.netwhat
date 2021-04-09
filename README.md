@@ -1,27 +1,31 @@
 # netwhat
 ## Basic network knowledge 📡
 
+```
 "IP addresses can be said to consist of multiple parts, similar to how full street addresses consist of multiple parts.  
 A street address can consist of the increasingly specific parts Country, City, Postal Code, Street and House Number.  
 An IP address consists of two main parts:  
 🧩 IP network and 🧩 addresses within the IP network.  
 The addresses within the IP network are also called the host 🎙 addresses because different hosts (computers)  
 have different unique addresses within the IP network.  
-
+```
+```
 🧩 The IP network corresponds to more general parts of a full street address, such as City, Postal Code and Street name.
 🧩 The Host Addresses within the IP network correspond to specific house numbers on a street."
-
+```
+```
 "But how can you tell if two IP addresses belong to same IP network? Unfortunately,  
 it isn’t as easy to tell IP networks apart from one another as it is with street addresses.  
  The answer is within something called a 🤡 Subnet Mask.  
  The Subnet Mask determines how much of the IP address that denominates which IP network the address belongs to.  
  The rest of the IP address can then be used for computers and other hosts on the IP network."
-
+```
+```
 "Both an IP address and a Subnet Mask consists of four parts separated by periods.  
 Each part of an IP address and a Subnet Mask can have a value between 0-255"
-
+```
+```
 "In its simplest form, each part of the Subnet Mask is either the number 255 or the number 0 (zero).
-
 -> 255 means that the corresponding part of the IP address belongs to the IP network.
 -> 0 (Zero) means that the corresponding part of the IP address belongs to the Host Addresses."
 
@@ -34,7 +38,7 @@ So the fourth part of the IP address permits for 256 different addresses (zero u
 that can be used for computers, IP phones, routers, laptops, printers and other devices.  
 These type of devices are commonly referred to as hosts or clients. In a normal home network, those addresses  
 are always more than enough to cover the devices that are connected to the network."
-
+```
 [IP Address](https://www.homenethowto.com/basics/ip-addresses/)
 
 ## Questions & Notions
